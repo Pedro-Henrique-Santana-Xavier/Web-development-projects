@@ -1,0 +1,58 @@
+body{
+    background-image: linear-gradient(135deg, indigo, deeppink);
+    height: 100vh;
+}
+nav{
+   padding: 10px;
+   text-align: center;
+   justify-content: flex-end;
+   border-bottom: 2px solid white;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding-right: 25px;
+    font-size: small;
+    font-weight: bold;
+    font-family: poppinslight;
+}
+h1{
+    border: 5px solid white;
+    padding: 15px;
+    color: white;
+    font-family: poppinslight;
+    font-size: 50px;
+}
+#home{
+    padding-left: 25px;
+}
+.nav{
+    padding-left: 9cm;
+    padding-right: 9cm;
+}
+.b{
+    margin-top: 3cm;
+    padding-left: 635px;
+    padding-right: 600px;
+}
+.primarytext{
+    font-size: 45px;
+}
+.secondtext{
+    font-size: 42px;
+}
+.thirtext{
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    font-family: poppinslight;
+}
+.maintext{
+    padding: 10px;
+    font-family: poppinsbold;
+    line-height: 1.2cm;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2cm;
+}
